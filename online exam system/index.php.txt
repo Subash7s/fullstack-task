@@ -1,0 +1,11 @@
+<?php include 'includes/header.php'; ?>s
+
+<div class="container text-center mt-5">
+    <h1 class="display-4">Online Examination System</h1>
+    <p class="lead">Attend exams and view results online.</p>
+
+    <a href="login.php" class="btn btn-primary m-2">Login</a>
+    <a href="register.php" class="btn btn-success m-2">Register</a>
+</div>
+
+<?php include 'includes/footer.php'; ?>
