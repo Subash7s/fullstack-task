@@ -6,7 +6,7 @@ public class ValidateStackSequences {
         int j = 0;
 
         for (int num : pushed) {
-            stack.push(num);
+            stack.push(num);z
 
             // Keep popping while top matches popped[j]
             while (!stack.isEmpty() && stack.peek() == popped[j]) {
